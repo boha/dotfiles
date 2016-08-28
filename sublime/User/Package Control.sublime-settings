@@ -6,12 +6,15 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Babel",
 		"Backbone.js",
 		"Better CoffeeScript",
 		"Git",
 		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"INI",
+		"JSON Reindent",
 		"JSX",
 		"LESS",
 		"Markdown Extended",
