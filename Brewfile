@@ -25,4 +25,5 @@ brew 'memcached'
 brew 'wget'
 brew 'ssh-copy-id'
 brew 'gpg'
+brew 'jq'
 
